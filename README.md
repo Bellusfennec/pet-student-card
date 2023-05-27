@@ -1,3 +1,5 @@
-# Автор
+# Проект по учебе
+Карточка студнта
 
-bellusfennec
+## Автор
+- [@bellusfennec](https://www.github.com/bellusfennec)
