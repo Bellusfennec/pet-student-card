@@ -1,5 +1,5 @@
 # Проект по учебе
-Карточка студнта
+Карточка студeнта
 
 ## Автор
 - [@bellusfennec](https://www.github.com/bellusfennec)
